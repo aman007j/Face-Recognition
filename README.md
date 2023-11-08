@@ -1,0 +1,2 @@
+# Face-Recognition
+The Face Recognition System for Identity Verification is an advanced computer vision application that utilizes deep learning algorithms to accurately detect and recognize human faces. The project aims to provide a reliable and efficient solution for identifying individuals based on their unique facial features. 
